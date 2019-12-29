@@ -8,12 +8,27 @@
   </url>
   
   <url>
+    <loc>https://webforsvqjug.github.io/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://webforsvqjug.github.io/code/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://webforsvqjug.github.io/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webforsvqjug.github.io/faq/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webforsvqjug.github.io/resources/</loc>
     <priority>0</priority>
   </url>
   

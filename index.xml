@@ -5,7 +5,7 @@
     <link>https://webforsvqjug.github.io/</link>
     <description>Recent content on SVQJUG Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-eshu</language>
+    <language>es-ES</language>
     
 	<atom:link href="https://webforsvqjug.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +17,15 @@
       
       <guid>https://webforsvqjug.github.io/about/</guid>
       <description>Prueba página ¿Quiénes somos? SVQJUG</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://webforsvqjug.github.io/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webforsvqjug.github.io/blog/</guid>
+      <description>Aqui iría un listado de blog posts, y/o resúmenes con enlaces a los posts completos</description>
     </item>
     
     <item>
@@ -35,6 +44,25 @@
       
       <guid>https://webforsvqjug.github.io/contact/</guid>
       <description>Prueba página Contacto SVQJUG</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://webforsvqjug.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webforsvqjug.github.io/faq/</guid>
+      <description>Tus preguntas más comunmente preguntadas: FAQ</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://webforsvqjug.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webforsvqjug.github.io/resources/</guid>
+      <description>Aqui irían los enlaces a:
+ recursos para programadores contactos de empresa  </description>
     </item>
     
   </channel>
